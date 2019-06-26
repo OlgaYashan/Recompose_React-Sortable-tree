@@ -1,0 +1,23 @@
+.target{
+    border: 1px solid purple;
+    width: 40%;
+    text-align: center;
+    min-height: 8rem;
+        .target_item_container{
+            width: 100%;
+            min-height: 8rem;
+           .rst__tree:nth-child(1){
+            height: 300px !important;
+            width: 600px !important;
+        }
+        .rst__tree{
+            .rst__node{
+                .rst__lineBlock{
+                    display: none;
+                }
+            }
+        }
+        
+        
+    }
+}
